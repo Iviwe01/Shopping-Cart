@@ -1,0 +1,45 @@
+Order ID,Product,Price
+,,
+1,,
+,Score,12
+,Total Cost Before Tax,R9.00
+,Tax (15%),R1.35
+,Total Cost After Tax,R10.35
+,Discount Code,ifs354
+2,,
+,Score,12
+,Redbull,17
+,Total Cost Before Tax,R26.00
+,Tax (15%),R3.90
+,Total Cost After Tax,R29.90
+,Discount Code,none
+3,,
+,Score,12
+,Redbull,17
+,Prime,55
+,Total Cost Before Tax,R81.00
+,Tax (15%),R12.15
+,Total Cost After Tax,R93.15
+,Discount Code,invalid promo
+4,,
+,Score,12
+,Redbull,17
+,Prime,55
+,Switch,10
+,Total Cost Before Tax,R68.25
+,Tax (15%),R10.24
+,Total Cost After Tax,R78.49
+,Discount Code,ifs354
+1,,,,
+,Score,12,,
+,Total Cost Before Tax,R12.00,,
+,Tax (15%),R1.80,,
+,Total Cost After Tax,R13.80,,
+,Discount Code,none,,
+2,,,,
+,Score,12,,
+,Prime,55,,
+,Total Cost Before Tax,R50.25,,
+,Tax (15%),R7.54,,
+,Total Cost After Tax,R57.79,,
+,Discount Code,ifs354,,
